@@ -1,0 +1,62 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="gkgaushala.com" resolutions="1x,2x" timestamp="1480338984757">
+  <folder name="css">
+    <file name="site_global.css" crc="357377259"/>
+    <file name="master_a-master.css" crc="4007039035" ref="contact:donate:about-cow-s:gaushala-aim:index"/>
+    <file name="contact.css" crc="3871793182" ref="contact"/>
+    <file name="donate.css" crc="292822241" ref="donate"/>
+    <file name="about-cow-s.css" crc="4129655489" ref="about-cow-s"/>
+    <file name="gaushala-aim.css" crc="4144330973" ref="gaushala-aim"/>
+    <file name="index.css" crc="254522004" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="webpro.js" crc="329496574" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u515.php" crc="3967756092" ref="contact"/>
+    <file name="pie.js" crc="3827607177" ref="donate"/>
+  </folder>
+  <folder name="images">
+    <file name="hedder-background.gif" crc="4260409934" seo="true" ref="index:about-cow-s:gaushala-aim:contact:donate"/>
+    <file name="files.jpg" crc="4125124699" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_4324-crop-u253.jpg" crc="4067043112" ref="index"/>
+    <file name="img_4324-crop-u253_2x.jpg" crc="56584089" ref="index"/>
+    <file name="img_4325-crop-u251.jpg" crc="352127644" ref="index"/>
+    <file name="img_4325-crop-u251_2x.jpg" crc="3867510405" ref="index"/>
+    <file name="img_4333-crop-u255.jpg" crc="4229150230" ref="index"/>
+    <file name="img_4333-crop-u255_2x.jpg" crc="4275951513" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cow.jpg" crc="3877367406" seo="true" ref="about-cow-s"/>
+    <file name="cow2.jpg" crc="378894807" seo="true" ref="about-cow-s"/>
+    <file name="u184-24.jpg" crc="367370365" seo="true" ref="gaushala-aim"/>
+    <file name="u525-17.png" crc="280607315" ref="contact"/>
+    <file name="u525-17-r.png" crc="91416124" ref="contact"/>
+    <file name="u525-17-m.png" crc="3829259797" ref="contact"/>
+    <file name="u525-17-fs.png" crc="4205947500" ref="contact"/>
+    <file name="u525-17_2x.png" crc="153189657" ref="contact"/>
+    <file name="u525-17-r_2x.png" crc="3841004145" ref="contact"/>
+    <file name="u525-17-m_2x.png" crc="3905376817" ref="contact"/>
+    <file name="u525-17-fs_2x.png" crc="360956528" ref="contact"/>
+    <file name="u490-20.png" crc="442436781" ref="donate"/>
+    <file name="u490-20_2x.png" crc="4105468324" ref="donate"/>
+    <file name="u492-grad.png" crc="398215254" ref="donate"/>
+    <file name="u492-r-grad.png" crc="260893406" ref="donate"/>
+    <file name="u489-44.png" crc="434783623" ref="donate"/>
+    <file name="u489-44_2x.png" crc="124547989" ref="donate"/>
+  </folder>
+  <file name="index.html" crc="3848139319" seo="true" mt="1480338949838" redirect="true"/>
+  <file name="about-cow-s.html" crc="66778255" seo="true" mt="1480338949838" redirect="true"/>
+  <file name="gaushala-aim.html" crc="253843107" seo="true" mt="1480338949838" redirect="true"/>
+  <file name="contact.html" crc="82568151" seo="true" mt="1480338949838" redirect="true"/>
+  <file name="donate.html" crc="3947176080" seo="true" mt="1480338949838" redirect="true"/>
+</manifest>
